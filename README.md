@@ -10,7 +10,7 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 
 ## Deliverables
 
-- Downloaded notebook with your responses to each of the exercises.
+- Notebook with your responses to each of the exercises.
 
 ## Submission
 
